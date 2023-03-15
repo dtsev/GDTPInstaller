@@ -1,7 +1,7 @@
 # Geometry Dash Texture Pack Installer
 ___
 This is a simple GUI-based tool to install a custom texture pack for the game Geometry Dash.
-![Program screenshot](GDTPInstaller/Screenshots/program.png)
+![Program screenshot](program.png)
 ## Prerequisites
 + Windows operating system
 + Geometry Dash game installed
